@@ -117,28 +117,6 @@ Where:
 * PostgreSQL or MySQL database
 * Redis (for swipe telemetry caching & streak management)
 
-### Environment Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-org/style-os-myanmar.git
-   cd style-os-myanmar
-   ```
-2. Copy environment file and configure DB connections:
-   ```bash
-   cp .env.example .env
-   ```
-3. Install dependencies and run migrations:
-   ```bash
-   npm install
-   # or 
-   composer install && php artisan migrate
-   ```
-4. Seed default places & hashtag taxonomy:
-   ```bash
-   npm run seed:taxonomy
-   ```
-
----
 
 ##  License
 
