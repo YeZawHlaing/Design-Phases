@@ -110,13 +110,6 @@ Where:
 
 ---
 
-##  Getting Started
-
-### Prerequisites
-* Node.js (v18+) or Python (v3.10+) / PHP (Laravel 10+) depending on backend stack
-* PostgreSQL or MySQL database
-* Redis (for swipe telemetry caching & streak management)
-
 
 ##  License
 
